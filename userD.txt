@@ -1,0 +1,30 @@
+vin tri
+1234567890
+vin@iitj.ac.in
+53-35
+77-103
+AC
+unshared
+11-01-2013
+14-50
+1
+trivikram cho
+1234567890
+tri@gmail.com
+179-185
+165-431
+AC
+unshared
+11-01-2013
+14-50
+2
+tri tri
+1234567890
+@
+53-35
+179-185
+AC
+unshared
+11-01-2013
+15-1
+0
